@@ -84,7 +84,9 @@
  
 - Git Push = mengupload
 <br>![image](https://user-images.githubusercontent.com/85721388/192086409-149f1a7c-0ecb-438f-94d1-cb125f200e47.png)
- 
+
+- Git clone =  untk memasukkan file github ke direktori local
+
 ### Kembali ke masa lalu
 -	Git checkout = Untuk pindah ke posisi hasil simpanan dari commit namun bersifat sementara
 -	Git Revert = berpindah namun tidak menghapus
