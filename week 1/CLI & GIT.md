@@ -62,28 +62,28 @@
 
 ## Perintah GIT
 - Git config = setup awal
-![image](https://user-images.githubusercontent.com/85721388/192086327-c8661655-b7a8-467c-aec9-c81a05dd393f.png)
+<br>![image](https://user-images.githubusercontent.com/85721388/192086327-c8661655-b7a8-467c-aec9-c81a05dd393f.png)
 
 -	Git init = seperti memasang memori card dan tidak bisa lebih dari satu memori card
-![image](https://user-images.githubusercontent.com/85721388/192086332-52311b82-a3b8-4672-867a-7577b7a47663.png)
+<br>![image](https://user-images.githubusercontent.com/85721388/192086332-52311b82-a3b8-4672-867a-7577b7a47663.png)
 
 -	Git status = untuk melihat perubahan
-![image](https://user-images.githubusercontent.com/85721388/192086337-a6c611b1-9524-46e6-a1ab-c53c41620c6b.png)
+<br>![image](https://user-images.githubusercontent.com/85721388/192086337-a6c611b1-9524-46e6-a1ab-c53c41620c6b.png)
  
 -	git add . = Cara memberi tanda kepada file yang untracked
-![image](https://user-images.githubusercontent.com/85721388/192086350-ec8eeaf5-4e36-4d6c-934a-1c9702cc8f02.png)
+<br>![image](https://user-images.githubusercontent.com/85721388/192086350-ec8eeaf5-4e36-4d6c-934a-1c9702cc8f02.png)
  
 -	Git commit = memberi pesan kepada file yang telah ditandai (git commit –m ”pesan”)
-![image](https://user-images.githubusercontent.com/85721388/192086373-6ca53171-803d-43aa-af9a-693dca773648.png)
+<br>![image](https://user-images.githubusercontent.com/85721388/192086373-6ca53171-803d-43aa-af9a-693dca773648.png)
  
 -	Git log –oneline = mengecek hasil penyimpanan dari commit
-![image](https://user-images.githubusercontent.com/85721388/192086390-103e3619-edc4-4a29-9930-c58cd6ef4daf.png)
+<br>![image](https://user-images.githubusercontent.com/85721388/192086390-103e3619-edc4-4a29-9930-c58cd6ef4daf.png)
 
 -	Git Remote = menghubungkan antara repository local dengan di git hub hanya sekali
-![image](https://user-images.githubusercontent.com/85721388/192086405-43d521d1-f382-47b9-b0ec-f94e4a1c8ee7.png)
+<br>![image](https://user-images.githubusercontent.com/85721388/192086405-43d521d1-f382-47b9-b0ec-f94e4a1c8ee7.png)
  
 - Git Push = mengupload
-![image](https://user-images.githubusercontent.com/85721388/192086409-149f1a7c-0ecb-438f-94d1-cb125f200e47.png)
+<br>![image](https://user-images.githubusercontent.com/85721388/192086409-149f1a7c-0ecb-438f-94d1-cb125f200e47.png)
  
 ### Kembali ke masa lalu
 -	Git checkout = Untuk pindah ke posisi hasil simpanan dari commit namun bersifat sementara
