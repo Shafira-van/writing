@@ -1,4 +1,4 @@
-# Javascript
+# Javascript (Day 5) 
 -	Javascript merupakan sebuah cara untuk membuat web lebih interaktif
 ## Menyisipkan javascript
 -	Internal Javascript dapat dijalankan di dalam file html
