@@ -1,4 +1,4 @@
-# ALGORITMA DAN STRUKTUR DATA
+# ALGORITMA DAN STRUKTUR DATA (Day 4)
 ## Algortima
 -	Algortima adalah langkah-langkah untuk menyelesaikan suatu masalah 
 -	Ciri-ciri algoritma
