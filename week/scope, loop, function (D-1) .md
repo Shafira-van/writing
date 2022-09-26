@@ -1,3 +1,4 @@
+# Looping & Conditional, Function, Scope (Day 1)
 ## Looping dan conditional
 - Perulangan for (jika…..maka…) dan conditional if
 <br>Digunakan ketika jumlah perulangan sudah diketahui
@@ -9,10 +10,10 @@
 
 - Perulangan do while
 <br>Digunakan jika belum mengetahui jumlah perulangan dan kondisi
-## function
+## Function
 <br>![image](https://user-images.githubusercontent.com/85721388/192198536-c31a561b-947b-4017-8d5a-053a0d3999e0.png)
 
-## scope
+## Scope
 - Global scope = Bisa keluar scope
 - Local scope = tidak dapat diluar scope
 
