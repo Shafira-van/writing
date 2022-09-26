@@ -1,4 +1,4 @@
-# CSS
+# CSS (Day 3)
 -	Css berfungsi untuk memberi style pada suatu website
 ## Menyisipkan css
 -	Inline : dengan menyisipkan langsung pada tag html
