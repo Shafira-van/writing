@@ -1,4 +1,4 @@
-# HTML
+# HTML (Day 2) 
 - Html adalah kerangka suatu website
 - Html bukan bahasa pemrograman
 ## TAG
