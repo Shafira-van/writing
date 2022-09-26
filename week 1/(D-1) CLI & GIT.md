@@ -1,4 +1,4 @@
-# Command Line Interface
+# Command Line Interface (Day 1)
 ## Shell
 - Shell adalah perintah yang digunakan untuk menginstruksikan sistem informasi 
 (user-shell-sistem operasi)
