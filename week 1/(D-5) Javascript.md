@@ -10,12 +10,12 @@
 ## Type data
 -	Type data primitive = String, Number, Boolean
 -	Type data unprimitive = Array, Object
-      1.	String = karakter dengan tanda kutip
-      2.	Boolean = tipe data pembanding dengan true/false
+      - String = karakter dengan tanda kutip
+      - Boolean = tipe data pembanding dengan true/false
 ## Menampilkan data
 -	Alert berfungsi untuk menampilkan data dengan pop up
 -	Confirm berfungsi untuk menampilkan data dengan pop up namun menghasilkan nilai jika oke (true) tapi jika cancel (false)
-## comment
+## Comment
 -	Single comments //
 -	Multiline comment /* */
 ## Operator
@@ -29,44 +29,32 @@
  <br>![image](https://user-images.githubusercontent.com/85721388/192105396-aaa21746-4bde-4991-ac5b-0a184d676a2c.png)
 
 
-## conditional
+## Conditional
 -	Conditional merupakan suatu kondisi jika.. maka...
 -	Conditional berfungsi agar aplikasi lebih dinamis dan terintegrasi 
 -	Kondisi ada beberapa yaitu
-    1.	if else
-    2.	switch case
+      - if else
+      - switch case
 -	Truthy merupakan kondisi jika benar
 -	False merupakan kondisi jika salah
 -	Ternary operator sama seperti if else dan penulisannya lebih singkat hanya sebaris namun tidak cocok untuk kondisi yang panjang
 Let makan
 Makan? Console.log ("kenyang") : console.log("lapar")
-## looping
+## Looping
 -	Looping adalah suatu perulangan sampai kondisi tercapai
--	Looping terdiri dari for loop, while do
-## DOM
--	getElementById(id) = untuk mengakses element HTML berdasarkan nilai id-nya.
- <br>![image](https://user-images.githubusercontent.com/85721388/192105420-82786027-84c0-4866-a963-dd065d2f5e56.png)
-
--	getElementsByTagName(tag) = Untuk mengakses element-element HTML berdasarkan jenis tag-nya
-<br> ![image](https://user-images.githubusercontent.com/85721388/192105425-a78a46ce-3d9c-48b1-a6c6-c2ca54716b0a.png)
-
--	getElementsByClassName(className) = Untuk mengakses element-element HTML berdasarkan nilai attribute class-nya
- <br>![image](https://user-images.githubusercontent.com/85721388/192105429-9f6ad9ca-cdd3-42a6-ac6f-d9ce9c03fbf3.png)
-
--	querySelectorAll(cssSelector) = Untuk mengakses element-element HTML berdasarkan CSS Selector-nya HTML
- <br>![image](https://user-images.githubusercontent.com/85721388/192105437-5227a8da-fbd7-48b4-bc35-27b4adbd5fec.png)
+-	Looping terdiri dari for loop, while, do while
+      - Perulangan for (jika…..maka…) 
+      <br>Digunakan ketika jumlah perulangan sudah diketahui
+      - Perulangan while  (selama ….. kita harus…..) dan conditional if
+      <br>Digunakan jika belum mengetahui jumlah perulangan namun mengetahui kondisinya 
+      - Perulangan do while
+      <br>Digunakan jika belum mengetahui jumlah perulangan dan kondisi
 
 
-## Mengubah element
--	element.innerHTML = untuk mengambil/mengubah isi HTML dari sebuah element.
-<br> ![image](https://user-images.githubusercontent.com/85721388/192105441-491d98f7-e4b2-406e-99c8-edff419b9c5c.png)
+## Contoh Looping dan conditional
+- Perulangan for (jika…..maka…) dan conditional if
+<br>![image](https://user-images.githubusercontent.com/85721388/192198513-192d1c15-0e85-4a7f-acdc-f8e1f357c638.png)
 
--	element.attribute = untuk mengambil/mengubah/menambah nilai attribute dari sebuah element.
-<br> ![image](https://user-images.githubusercontent.com/85721388/192105448-880be500-73c7-4da3-82c0-b324f81961b0.png)
+- Perulangan while  (selama ….. kita harus…..) dan conditional if
+<br>![image](https://user-images.githubusercontent.com/85721388/192198523-7fd79bf5-19a1-4a6c-a4ea-0b8a2da9a84e.png)
 
--	element.setAttribute(attribute, nilai) = seperti element.attribute namun setAttribute itu termasuk DOM Method sedangkan element.attribute itu DOM Property.
-<br> ![image](https://user-images.githubusercontent.com/85721388/192105454-395c5353-8aa1-42eb-b274-b72c588f61f9.png)
-
--	element.style.property = adalah untuk mengambil/mengubah/menambah CSS dari element HTML
-<br>![image](https://user-images.githubusercontent.com/85721388/192105466-f88f47ce-3d92-47c9-ba08-74ccf27ece3c.png)
-<br>![image](https://user-images.githubusercontent.com/85721388/192105472-0523add3-66e3-46f1-a909-2f99d0421e39.png)
