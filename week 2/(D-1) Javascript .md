@@ -1,21 +1,20 @@
-# Looping & Conditional, Function, Scope (Day 1)
-## Looping dan conditional
-- Perulangan for (jika…..maka…) dan conditional if
-<br>Digunakan ketika jumlah perulangan sudah diketahui
-<br>![image](https://user-images.githubusercontent.com/85721388/192198513-192d1c15-0e85-4a7f-acdc-f8e1f357c638.png)
-
-- Perulangan while  (selama ….. kita harus…..) dan conditional if
-<br>Digunakan jika belum mengetahui jumlah perulangan namun mengetahui kondisinya 
-<br>![image](https://user-images.githubusercontent.com/85721388/192198523-7fd79bf5-19a1-4a6c-a4ea-0b8a2da9a84e.png)
-
-- Perulangan do while
-<br>Digunakan jika belum mengetahui jumlah perulangan dan kondisi
+# Function, Scope (Day 1)
 ## Function
 <br>![image](https://user-images.githubusercontent.com/85721388/192198536-c31a561b-947b-4017-8d5a-053a0d3999e0.png)
+<br> ![image](https://user-images.githubusercontent.com/85721388/192105413-07ce6444-b94f-4906-b066-236336ffde99.png)
 
 ## Scope
-- Global scope = dapat diakses di seluruh dokumen web
+
+-	Lingkup Global = sebuah variabel bisa diakses dari mana saja, baik di dalam maupun di luar dari suatu fungsi atau blok (grup) kode
 <br> ![image](https://user-images.githubusercontent.com/85721388/192202091-fa2ea930-7b72-420d-8d75-55bed207ff43.png)
-- Local scope = hanya dapat diakses di dalam fungsi yang telah dideklarasikan.
+
+-	Lingkup Lokal = sebuah variabel hanya bisa diakses di dalam sebuah fungsi atau blok kode.
+    1.	lingkup fungsi (function scope)
+          -	var = terlalu bebas sehingga tidak muncul error walaupun variabel sama, boleh diluar lokasi  kurung
+    2.	lingkup blok (block scope) 
+          -	let = akan error jika pendeklarasian/variabel sama harus dalam satu lokasi kurung
+          -	const = tidak dapat diubah sama sekali karena sudah tetap
 <br> ![image](https://user-images.githubusercontent.com/85721388/192202147-4cd3734e-fb02-4171-a250-cd792035bbe4.png)
+
+
 
