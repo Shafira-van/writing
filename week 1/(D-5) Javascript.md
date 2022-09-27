@@ -1,4 +1,4 @@
-# Javascript (Day 5) 
+# Conditional dan Looping (Day 5) 
 -	Javascript merupakan sebuah cara untuk membuat web lebih interaktif
 ## Menyisipkan javascript
 -	Internal Javascript dapat dijalankan di dalam file html
@@ -28,21 +28,6 @@
 -	Operator logika
  <br>![image](https://user-images.githubusercontent.com/85721388/192105396-aaa21746-4bde-4991-ac5b-0a184d676a2c.png)
 
-## Scope
-
--	Lingkup Global = sebuah variabel bisa diakses dari mana saja, baik di dalam maupun di luar dari suatu fungsi atau blok (grup) kode
-<br> ![image](https://user-images.githubusercontent.com/85721388/192105401-ffcba13d-f97e-49f7-a5b0-752f008ecfb3.png)
-
--	Lingkup Lokal = sebuah variabel hanya bisa diakses di dalam sebuah fungsi atau blok kode.
-    1.	lingkup fungsi (function scope)
-          -	var = terlalu bebas sehingga tidak muncul error walaupun variabel sama, boleh diluar lokasi  kurung
-    2.	lingkup blok (block scope) 
-          -	let = akan error jika pendeklarasian/variabel sama harus dalam satu lokasi kurung
-          -	const = tidak dapat diubah sama sekali karena sudah tetap
- <br>![image](https://user-images.githubusercontent.com/85721388/192105406-fa328581-5b67-4e0a-b260-05ff3149c16f.png)
-
-## Function
-<br> ![image](https://user-images.githubusercontent.com/85721388/192105413-07ce6444-b94f-4906-b066-236336ffde99.png)
 
 ## conditional
 -	Conditional merupakan suatu kondisi jika.. maka...
