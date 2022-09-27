@@ -1,0 +1,15 @@
+# Method dan Property (Day 2)
+-	Typeof berfungsi untuk menetapkan variable
+-	Property ciri ciri dari string
+- Method adalah keahlian, suatu fungsi yang telah disediakan oleh javascript
+  - string
+    - toUpperCase()
+    - toLowerCase()
+    - charAt() mengembalikan karakter berdasarkan posisi indexnya
+    - includes() melakukan pencarian didalam string
+    - split() memisahkan sebuah string menjadi data array berdasarkan spasi
+  - number
+    - isnan() (memberitahu yang bukan angka)
+    - toFixed() mengambil beberapa angka di belakang koma
+- referensi 
+  - mdn web docs 
