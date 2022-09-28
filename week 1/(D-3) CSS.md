@@ -42,3 +42,7 @@
 -	border-radius = agar background ujungnya menjadi tumpul
 -	Border : black solid 0px
 -	Span = untuk memberi styling secara terpisah
+
+## Referensi
+-	Tailwindcs
+-	Bootstraps
