@@ -9,9 +9,13 @@
 
 ## Type data
 -	Type data primitive = String, Number, Boolean
--	Type data unprimitive = Array, Object
       - String = karakter dengan tanda kutip
       - Boolean = tipe data pembanding dengan true/false
+-	Type data unprimitive = Array, Object
+	- Pemanggilan object
+	1. <br>![image](https://user-images.githubusercontent.com/85721388/192718805-efc32ed2-6a80-443e-918b-c61daada29f9.png)
+	2. <br>![image](https://user-images.githubusercontent.com/85721388/192718912-9aa37d7f-857d-43ba-ad63-78cb5d027607.png)
+     
 ## Menampilkan data
 -	Alert berfungsi untuk menampilkan data dengan pop up
 -	Confirm berfungsi untuk menampilkan data dengan pop up namun menghasilkan nilai jika oke (true) tapi jika cancel (false)
