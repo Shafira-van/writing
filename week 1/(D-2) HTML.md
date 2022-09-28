@@ -21,7 +21,7 @@
 -	Aside
 -	Footer 
 
-## other
+## Other
 -	Element = tag dan konten
 -	mengupload gambar 
 <br>![image](https://user-images.githubusercontent.com/85721388/192083339-c4402f94-4138-4000-87f2-c4880acd3935.png)
@@ -29,3 +29,8 @@
 <br> ![image](https://user-images.githubusercontent.com/85721388/192083492-245ef62e-2091-41f4-8786-07ede49537ec.png)
 - memberi tipe pada list sesuai keinginan
 <br> ![image](https://user-images.githubusercontent.com/85721388/192083548-80914d41-d711-4183-809d-96065cc39139.png)
+
+## Referensi
+-	Undrawn(ilustrasi), freepik, humaaans(orang), pexels, unsplash(fotografi) = sumber web untuk mengambil gambar
+-	Iconscout, boxicons = sumber web untuk mengambil icon
+
