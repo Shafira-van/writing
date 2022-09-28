@@ -1,4 +1,4 @@
-# Method dan Prototype (Day 2)
+# Data Type Built in dan Method(Day 2)
 -	Typeof berfungsi untuk menetapkan variable
 -	Property ciri ciri dari string
 - Method adalah keahlian, suatu fungsi yang telah disediakan oleh javascript
