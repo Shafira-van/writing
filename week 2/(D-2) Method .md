@@ -1,4 +1,5 @@
-# Data Type Built In dan Method(Day 2)
+# Method dan Prototype (Day 2)
+## Data Type Built In dan Method
 -	Typeof berfungsi untuk menetapkan variable sehingga tidak bisa diubah lagi
 -	Property ciri ciri dari string
 - Method adalah keahlian, suatu fungsi yang telah disediakan oleh javascript
@@ -28,6 +29,20 @@
     - toString() mengganti angka menjadi string
     - toFixed() mengambil beberapa angka di belakang koma dan merubahnya menjadi string
     - number(pi.tofixed(2)) merubah string menjadi number
-    - 
-- referensi 
+  - Math
+    - Math.pi
+    - Math.abs
+    - Math.pow
+    - Math.sqrt() = akar dari
+  - Date
+    - getFullYear()  
+## prototype 
+prototype adalah mekanisme yang mampu menurunkan satu fitur ke fitur yang lain
+- membuat method baru dengan tipe data string
+<br>![image](https://user-images.githubusercontent.com/85721388/192717102-23a4455b-3389-4504-8ba9-5593c3a1561c.png)
+<br>![image](https://user-images.githubusercontent.com/85721388/192717812-f3d50e34-b6aa-4e59-9227-22deaec45e1f.png)
+
+
+
+## referensi 
   - mdn web docs 
