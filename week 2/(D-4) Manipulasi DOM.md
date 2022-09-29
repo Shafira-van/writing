@@ -1,6 +1,7 @@
 
-# Manipulasi DOM
-![image](https://user-images.githubusercontent.com/85721388/192934642-4ea57778-6fc7-4fdb-8c37-f9e0e79781cb.png)
+# Manipulasi DOM (Day 4)
+- File HTML 
+<br> ![image](https://user-images.githubusercontent.com/85721388/192950669-06d06bdc-80ae-4bfa-a424-c58c9966e397.png)
 
 ## element.innerHTML
 - Untuk mengambil/mengubah isi HTML dari sebuah element
@@ -23,18 +24,30 @@
 
 ## element.attribute 
 - Untuk mengambil/mengubah/menambah nilai attribute dari sebuah element.
-<br> ![image](https://user-images.githubusercontent.com/85721388/192105448-880be500-73c7-4da3-82c0-b324f81961b0.png)
-![image](https://user-images.githubusercontent.com/85721388/192937858-2e682800-1337-4c4f-87e6-319936416864.png)
+- Javascript
+<br> ![image](https://user-images.githubusercontent.com/85721388/192950258-2407bb6f-6475-4f61-9f31-8979ac1f24ed.png)
+- Output
+<br> ![image](https://user-images.githubusercontent.com/85721388/192950314-a41601f2-54b9-4c4b-8b5f-b8a78be70258.png)
 
 ## element.setAttribute(attribute, nilai) 
 - seperti element.attribute namun setAttribute itu termasuk DOM Method sedangkan element.attribute itu DOM Property.
+- Javascript
+<br> ![image](https://user-images.githubusercontent.com/85721388/192943591-8915c36b-9e1e-4816-bc18-1dd73cd56559.png)
+- Output
+<br> ![image](https://user-images.githubusercontent.com/85721388/192943685-6dbb1d87-c5ab-4f2d-bc80-1045c1fc0cbd.png)
+- Contoh skilvul
 <br> ![image](https://user-images.githubusercontent.com/85721388/192105454-395c5353-8aa1-42eb-b274-b72c588f61f9.png)
 
 ## computedStyle
-![image](https://user-images.githubusercontent.com/85721388/192938075-49ded855-8e01-4188-ad2c-f28de0764c33.png)
-![image](https://user-images.githubusercontent.com/85721388/192939324-a92116c6-a831-4e2d-838f-63bf05e3c671.png)
+- Javascript
+<br> ![image](https://user-images.githubusercontent.com/85721388/192944398-bf880848-7b3b-49f8-a248-0610fdf7c10c.png)
+- Output
+<br> ![image](https://user-images.githubusercontent.com/85721388/192944452-9098e1ae-dd8a-4052-a671-db401e8f5c11.png)
 
 ## element.style.property 
 - untuk mengambil/mengubah/menambah CSS dari element HTML
-<br>![image](https://user-images.githubusercontent.com/85721388/192105466-f88f47ce-3d92-47c9-ba08-74ccf27ece3c.png)
-<br>![image](https://user-images.githubusercontent.com/85721388/192105472-0523add3-66e3-46f1-a909-2f99d0421e39.png)
+- Javascript
+<br> ![image](https://user-images.githubusercontent.com/85721388/192945463-4f56ddfd-8c17-41a3-a3f4-9a4116a41fe7.png)
+- Output
+<br> ![image](https://user-images.githubusercontent.com/85721388/192945542-ca9006f5-342d-4ecb-83cc-70dc53548730.png)
+
