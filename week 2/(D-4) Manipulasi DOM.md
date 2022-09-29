@@ -24,6 +24,7 @@
 ## element.attribute 
 - Untuk mengambil/mengubah/menambah nilai attribute dari sebuah element.
 <br> ![image](https://user-images.githubusercontent.com/85721388/192105448-880be500-73c7-4da3-82c0-b324f81961b0.png)
+![image](https://user-images.githubusercontent.com/85721388/192937858-2e682800-1337-4c4f-87e6-319936416864.png)
 
 ## element.setAttribute(attribute, nilai) 
 - seperti element.attribute namun setAttribute itu termasuk DOM Method sedangkan element.attribute itu DOM Property.
