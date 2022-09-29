@@ -30,6 +30,9 @@
 - seperti element.attribute namun setAttribute itu termasuk DOM Method sedangkan element.attribute itu DOM Property.
 <br> ![image](https://user-images.githubusercontent.com/85721388/192105454-395c5353-8aa1-42eb-b274-b72c588f61f9.png)
 
+## computedStyle
+![image](https://user-images.githubusercontent.com/85721388/192938075-49ded855-8e01-4188-ad2c-f28de0764c33.png)
+
 ## element.style.property 
 - untuk mengambil/mengubah/menambah CSS dari element HTML
 <br>![image](https://user-images.githubusercontent.com/85721388/192105466-f88f47ce-3d92-47c9-ba08-74ccf27ece3c.png)
