@@ -32,6 +32,7 @@
 
 ## computedStyle
 ![image](https://user-images.githubusercontent.com/85721388/192938075-49ded855-8e01-4188-ad2c-f28de0764c33.png)
+![image](https://user-images.githubusercontent.com/85721388/192939324-a92116c6-a831-4e2d-838f-63bf05e3c671.png)
 
 ## element.style.property 
 - untuk mengambil/mengubah/menambah CSS dari element HTML
