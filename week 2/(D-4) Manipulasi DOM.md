@@ -1,27 +1,28 @@
 
 # Manipulasi DOM
+![image](https://user-images.githubusercontent.com/85721388/192934642-4ea57778-6fc7-4fdb-8c37-f9e0e79781cb.png)
 
 ## element.innerHTML
-- untuk mengambil/mengubah isi HTML dari sebuah element
+- Untuk mengambil/mengubah isi HTML dari sebuah element
 - Javascript
 <br> ![image](https://user-images.githubusercontent.com/85721388/192933897-28b5b161-ad21-4440-81f5-5a72af748a37.png)
 - Output
 <br> ![image](https://user-images.githubusercontent.com/85721388/192933984-ea0eda22-48ea-410c-b261-90b3b32a8541.png)
 
 ## append
-- bisa mengambil variabel/tag 
+- Bisa mengambil variabel/tag 
 - Javascript
 <br> ![image](https://user-images.githubusercontent.com/85721388/192933708-a77f07b0-7ab7-4325-8e09-09672be12c1e.png)
 - Output 
 <br> ![image](https://user-images.githubusercontent.com/85721388/192933746-84698c91-69fd-40a2-abdf-163ad622c9ba.png)
 
 ## remove
-- menghapus isi dari element
+- Menghapus isi dari element
 - Javascript 
 <br> ![image](https://user-images.githubusercontent.com/85721388/192932627-e65b2c4f-eabd-4686-ae93-2565c4c6b960.png)
 
 ## element.attribute 
-- untuk mengambil/mengubah/menambah nilai attribute dari sebuah element.
+- Untuk mengambil/mengubah/menambah nilai attribute dari sebuah element.
 <br> ![image](https://user-images.githubusercontent.com/85721388/192105448-880be500-73c7-4da3-82c0-b324f81961b0.png)
 
 ## element.setAttribute(attribute, nilai) 
