@@ -115,7 +115,8 @@
   - Output
   <br>  ![image](https://user-images.githubusercontent.com/85721388/193505946-9ed01cc3-df1e-4253-8033-d58001261627.png)
 
-## Kapan penggunaan For, Map dan ForEach 
+## Kapan penggunaan For, Map dan ForEach
+https://github.com/tech-4-impact-batch-3/materi/blob/main/12-array/array-loop.png
 
 ## Array multidimensi 
 - JavaScript
