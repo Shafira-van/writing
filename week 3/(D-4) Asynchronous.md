@@ -1,4 +1,4 @@
-#  Asynchronous
+#  Asynchronous (Day 4)
 - Asynchronus adalah proses yang tidak berurutan/memotong antrian agar dapat di proses terlebih dahulu dan berfungsi agar user tidak perlu menunggu lama untuk memproses halaman 
 - Synctonus proses yang berurutan.
 - Single thread blocking = harus menunggu setiap antrian selesai.
