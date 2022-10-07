@@ -1,6 +1,6 @@
 #  Asynchronous (Day 4)
 - Asynchronus adalah proses yang tidak berurutan/memotong antrian agar dapat di proses terlebih dahulu dan berfungsi agar user tidak perlu menunggu lama untuk memproses halaman 
-- Synctonus proses yang berurutan.
+- Syncronus proses yang berurutan.
 - Single thread blocking = harus menunggu setiap antrian selesai.
 - Single thread non-blocking = mengizinkan adanya pemotongan antrian.
 - Multi thread banyak antrian.
@@ -14,7 +14,7 @@
   <br> ![image](https://user-images.githubusercontent.com/85721388/194218966-27a8657f-3793-428e-8940-501bfd07ada8.png)
 
 ### Promises
-  - 
+  - Promise adalah suatu fungsi yang mempresentasikan apakah kejadian tersebut berhasil atau gagal
   - Contoh :
   <br> Javascript
   <br>  ![image](https://user-images.githubusercontent.com/85721388/194218987-558f7a39-197c-4bda-82a1-5f79fee97f5a.png)
