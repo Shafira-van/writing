@@ -1,4 +1,4 @@
-# ARRAY
+# ARRAY (Day 1)
 - Array adalah tipe data yang mampu menyimpan banyak data
 ## Method Pada Array
 - Array.length = untuk melihat panjang data
