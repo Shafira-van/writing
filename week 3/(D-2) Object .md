@@ -1,4 +1,4 @@
-# Object
+# Object (Day 2)
 - Object adalah variabel yang menyimpan property dan method
 - Key adalah nilai dari property
 ## Mengakses object
