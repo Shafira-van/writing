@@ -1,4 +1,4 @@
-# Modules dan Rekursif
+# Modules dan Rekursif (Day 3)
 ## Modules 
 - Modules adalah cara untuk memisahkan kode ke file yang berbeda
 - File script utama tidak bisa melakukan export
@@ -27,8 +27,9 @@
  
 
 ## fungsi rekursif
-- Base case = Titik paling kecil
-- 
+- kunci rekursif
+  - Base case = Titik paling kecil/titik berhenti
+  - Recursion case = Titik memanggil fungsi itu sendiri
 - Fungsi yang memanggil  fungsi itu sendiri
 - Contoh kasus 1
   <br>Javascript
