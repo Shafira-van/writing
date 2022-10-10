@@ -1,0 +1,16 @@
+# Fetch dan Async Await (Day 1)
+ ![image](https://user-images.githubusercontent.com/85721388/194794209-1d43bc7f-55d0-41da-8c17-2b46b9d8a5bf.png)
+
+## Async Await
+- Javascript
+<br> ![image](https://user-images.githubusercontent.com/85721388/194794156-51edbe43-1477-4fdc-a775-505fc13ba8f0.png)
+
+- Output
+<br> ![image](https://user-images.githubusercontent.com/85721388/194794166-80bb1747-d6ed-40ba-a8be-f42565ba1711.png)
+
+- Javascript
+<br> ![image](https://user-images.githubusercontent.com/85721388/194794172-d196a972-fa10-4057-8376-e7289366d88e.png)
+
+- Output
+<br> ![image](https://user-images.githubusercontent.com/85721388/194794180-fb680dc2-f711-4f6f-86b4-6c54746c0033.png)
+
