@@ -26,3 +26,7 @@ Atau menggunakan async await
 <br>![image](https://user-images.githubusercontent.com/85721388/194797816-687b6448-5b83-44af-9f84-2a131c817034.png)
 - Output
 <br>![image](https://user-images.githubusercontent.com/85721388/194797822-130b345c-a159-4c64-b499-e80de9aabedb.png)
+
+## cara memanggil data ke html
+<br>![image](https://user-images.githubusercontent.com/85721388/194801404-2a8f4861-bf18-4fcf-84a8-15a0f49f2e67.png)
+
