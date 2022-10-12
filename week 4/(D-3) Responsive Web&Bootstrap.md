@@ -1,4 +1,4 @@
-# Responsive Web dan Bootstrap
+# Responsive Web dan Bootstrap (Day 3)
 ## Responsive Web
 ### Viewport
 - Viewport adalah layar yang dapat di akses oleh user
