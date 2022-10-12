@@ -1,1 +1,1 @@
-# Git dan Github Lanjutan
+# Git dan Github Lanjutan (Day 2)
