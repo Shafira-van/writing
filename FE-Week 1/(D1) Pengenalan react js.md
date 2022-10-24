@@ -5,4 +5,12 @@
 - React menggunakana virtual dom sebagai perantara ke dom yang memiliki kelebihan ketika element dirender ulang yang mengalami perubahan hanya yang dirubah saja sehingga lebih mempercepat performa website
 - Function hanya bisa me-return 1 elemen saja
 ## Perintah react
-- Npm start untuk membuka live server
+- Npm start = untuk membuka live server
+
+## contoh 
+- hello shafira
+<br>index.js
+<br>![image](https://user-images.githubusercontent.com/85721388/197511730-6874ce85-bcb9-418c-b384-49e9fa06717b.png)
+<br>App.js
+<br>![image](https://user-images.githubusercontent.com/85721388/197511612-e6db7533-936c-4bca-b120-a5f7e0c66e48.png)
+
