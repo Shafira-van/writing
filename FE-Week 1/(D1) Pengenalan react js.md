@@ -1,4 +1,4 @@
-# React JS
+# React JS (Day 1)
 - Node js adalah sistem yang membantu js agar dapat berjalan diluar browser
 - React js dibuat oleh tim facebook sebuah library javascript untuk membuat UI berbasis komponen
 - React menggunakan teknologi single page application 
