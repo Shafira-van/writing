@@ -6,6 +6,7 @@
 - Function hanya bisa me-return 1 elemen saja
 ## Perintah react
 - Npm start = untuk membuka live server
+- npx create-react-app nama_projek
 
 ## contoh 
 - hello shafira
