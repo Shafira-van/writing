@@ -6,7 +6,7 @@
 - Function hanya bisa me-return 1 elemen saja
 ## Perintah react
 - Npm start = untuk membuka live server
-- npx create-react-app nama_projek
+- npx create-react-app nama_projek = untuk menginstall di react di setiap projek kita
 
 ## contoh 
 - hello shafira
