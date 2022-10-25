@@ -37,5 +37,8 @@
 
 ![image](https://user-images.githubusercontent.com/85721388/197698789-9000b9cb-6312-48be-9454-5f2ffcaa128c.png)
  
+ ## Bootstrap
+ ### menyisipkan link bootstrap di index.html
+ ### menginstall bootstrap
  
 
