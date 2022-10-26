@@ -17,7 +17,7 @@
 
 
 ### props 
-- merupakan jalur komunikasi antara parent dan child / passing data antara komponen
+- merupakan jalur komunikasi antara parent dan child / pemberian data antara komponen
 ![image](https://user-images.githubusercontent.com/85721388/197698283-c0633aeb-1fcd-4e4e-8653-5004841a952c.png)
 ![image](https://user-images.githubusercontent.com/85721388/197698316-70107ddb-4034-4179-b7d8-c07781d21ac2.png)
   
