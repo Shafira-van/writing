@@ -20,8 +20,9 @@
 - npx create-react-app nama_projek = untuk menginstall di react di setiap projek kita
 - npm start = untuk membuka live server
 ### cara 2
-- npm create vite@latest nama_projek --template vue
+- npm create vite@latest nama_projek --template
 - npm install
 - npm run dev
+- ctrl+click link
 
 
