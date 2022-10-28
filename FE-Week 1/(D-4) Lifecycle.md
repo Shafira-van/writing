@@ -17,4 +17,5 @@
 <br>Ketika nama digimon di clik maka akan tampil seperti dibawah
 <br>![image](https://user-images.githubusercontent.com/85721388/198205795-6c088e9f-092f-45e3-aed6-209ab2372c2b.png)
 
-
+## Penggunaan axios
+- npm install axios
