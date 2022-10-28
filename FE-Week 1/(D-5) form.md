@@ -15,7 +15,7 @@
 <br>![image](https://user-images.githubusercontent.com/85721388/198508340-1ac977e6-396d-4f89-a1de-a2132526543f.png)
 
 - masukkan data ke api
-<br>![image](https://user-images.githubusercontent.com/85721388/198508711-d8ab36ab-6cf2-494a-9cdf-01cc3c22d6b2.png)
+<br>![image](https://user-images.githubusercontent.com/85721388/198510860-cc75c120-aef0-49f4-addd-43be28e696fe.png)
 
 
  
