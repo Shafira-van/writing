@@ -1,7 +1,9 @@
-# PropsType (Day 1)
+# PropType (Day 1)
 - npm install prop-type
  
 ## Halaman app.js 
+![image](https://user-images.githubusercontent.com/85721388/198935747-bf1a00cc-d932-43bc-9dbb-98fdc68a020e.png)
+
 ## Halaman awal StudentInfo.jsx
  ![image](https://user-images.githubusercontent.com/85721388/198934473-102dcbcf-5d76-4449-86cb-48885829da11.png)
 
@@ -24,7 +26,9 @@
 ![image](https://user-images.githubusercontent.com/85721388/198934666-cab26cb8-d437-4c31-90e9-0ea537035695.png)
 
 ## Mengecek nilai object
+![image](https://user-images.githubusercontent.com/85721388/198935555-39659042-0d3c-42c5-b229-2e73d3370f80.png)
 
 ## Tidak boleh ada data yang diluar props type
- 
+![image](https://user-images.githubusercontent.com/85721388/198935443-2101a6c2-d3c8-400c-afd0-a6ec661b842a.png)
+
 
