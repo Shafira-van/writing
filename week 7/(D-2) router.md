@@ -1,4 +1,4 @@
-# React router
+# React router (Day 2)
 -	Berfungsi untuk berpindah pindah halaman
 ## Perintah router
 - <BrowserRouter> = Untuk ngebungkus root router/file utama
