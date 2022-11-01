@@ -1,8 +1,8 @@
 # React router (Day 2)
 -	Berfungsi untuk berpindah pindah halaman
 ## Perintah router
-- <BrowserRouter> = Untuk ngebungkus root router/file utama
-- <link> = seperti tag a
+- BrowserRouter = Untuk ngebungkus root router/file utama
+- link = seperti tag a
 - Path = arah yang ingin dituju di alamat web
 - to = href
 
