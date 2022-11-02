@@ -1,4 +1,4 @@
-# Redux
+# Redux (Day 3)
 ## Alur
 -	Membuat store
 <br> ![image](https://user-images.githubusercontent.com/85721388/199428306-41da5cb8-4c38-4093-bfb9-abf154810567.png)
