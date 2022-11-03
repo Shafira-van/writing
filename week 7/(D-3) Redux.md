@@ -6,7 +6,7 @@
 <br> ![image](https://user-images.githubusercontent.com/85721388/199428328-4b909f6b-f891-471d-ab7d-b4242330d914.png)
 -	Membuat provider
 <br> ![image](https://user-images.githubusercontent.com/85721388/199428349-9f6476f3-40ec-4636-b09d-e3b34429ed5f.png)
--	Ambil data ke dalam callback menggunakan useSelector
+-	Ambil data ke dalam callback menggunakan useSelector di dalam komponen
 <br> ![image](https://user-images.githubusercontent.com/85721388/199428376-329d1d93-4bd6-40ab-8ba4-23917d798dbb.png)
 -	Mengubah data menggunakan action dan dispatch
 <br> ![image](https://user-images.githubusercontent.com/85721388/199428392-f68aef3d-54e7-408e-aa33-c9dcb54d4a7a.png)
