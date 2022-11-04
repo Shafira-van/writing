@@ -7,6 +7,9 @@
 - to = href
 
 ## Contoh 
+- Main.jsx
+<br><img width="413" alt="image" src="https://user-images.githubusercontent.com/85721388/199923899-15bff7ba-8826-4639-aece-78720434a5f9.png">
+
 ### Berpindah dengan navbar
 - App.jsx
 <br>![image](https://user-images.githubusercontent.com/85721388/199172060-c940cdd6-9dba-4648-9fbd-d1d1464776f8.png)
