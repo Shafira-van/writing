@@ -23,3 +23,6 @@
 <br> ![image](https://user-images.githubusercontent.com/85721388/199428557-a74ab9e4-3ff2-4746-8da4-16e5ab9aa474.png)
 -	SumarryPembelian.jsx
 <br> ![image](https://user-images.githubusercontent.com/85721388/199428580-545fcb41-b3c5-4e66-86e8-09c8904bcc7f.png)
+
+## Perintah
+- npm install react-redux
